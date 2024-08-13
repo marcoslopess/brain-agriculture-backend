@@ -15,7 +15,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/brain-agriculture-backend.git
+git clone https://github.com/marcoslopess/brain-agriculture-backend.git
 cd brain-agriculture-backend
 ```
 
